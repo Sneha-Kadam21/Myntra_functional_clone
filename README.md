@@ -1,4 +1,4 @@
-# Myntra Clone 🛍
+# Myntra Clone 
 
 A front-end clone of the Myntra shopping website built using HTML, CSS, and JavaScript. This project replicates the core UI structure of Myntra’s homepage and simulates basic cart functionality.
 
